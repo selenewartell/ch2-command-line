@@ -4,8 +4,6 @@ This exercise is a brief review of terminal commands. Like all exercises, you ca
  ```bash
 # Navigate to your "Documents" directory
 
-# Dance
-
 # Create a new directory "quick-exercise"
 
 # Navigate to your "quick-exercise" directory
